@@ -23,7 +23,3 @@ This project contains three main C# scripts:
 2. Open the project in Unity.
 3. Open the SampleScene from the Assets/Scenes folder.
 4. Click the Play button to test the game in the Unity editor.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
